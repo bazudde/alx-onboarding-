@@ -1,0 +1,8 @@
+Start
+Enter a positive number (o or negative number to stop)
+sum = 0
+if number is greater than zero go to step 5
+sum = sum + number go to step 7
+else go to step 2
+display sum
+stop
